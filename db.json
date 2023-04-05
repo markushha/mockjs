@@ -2,6 +2,7 @@
 	"products": [{
 			"id": 1,
 			"title": "Nike Soccer Ball",
+			"description": "Just a soccer ball",
 			"price": 55.00,
 			"currency": "USD",
 			"image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/07c5328a-0e56-4bfa-a849-9f07fc3f05e0/nfhs-club-elite-team-soccer-ball-hLgSc1.png",
@@ -10,6 +11,7 @@
 		{
 			"id": 2,
 			"title": "Adidas Running Shoes",
+			"description": "Just a running shoes, but adidas",
 			"price": 80.00,
 			"currency": "USD",
 			"image": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/f33e601a67b64350a5e5ac8d00b5ab5e_9366/Ultraboost_21_Shoes_Black_GY0216_01_standard.jpg",
@@ -18,6 +20,7 @@
 		{
 			"id": 3,
 			"title": "Under Armour Basketball",
+			"description": "Just a basket ball",
 			"price": 35.00,
 			"currency": "USD",
 			"image": "https://assets.underarmour.com/dw/image/v2/BBRN_PRD/on/demandware.static/-/Sites-ua-us-master-catalog/default/dw4c665dd8/images/pdp/1306883/1306883-601_Z8.jpg?sw=700&sh=700&sm=fit&sfrm=png",
@@ -26,6 +29,7 @@
 		{
 			"id": 4,
 			"title": "Wilson Tennis Racket",
+			"description": "Just a WILSON tennis racket",
 			"price": 100.00,
 			"currency": "USD",
 			"image": "https://www.wilson.com/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-master-catalog/default/dw05920c8e/images/hi-res/WRT73121U_1.jpg?sw=555&sh=680&sm=cut",
@@ -34,6 +38,7 @@
 		{
 			"id ": 5,
 			"title": "New Balance Running Shorts",
+			"description": "Just a running shorts",
 			"price": 30.00,
 			"currency": "USD",
 			"image": "https://nb.scene7.com/is/image/NB/ms81281v2_nb_14_i?$pdpflexf2$",
@@ -42,6 +47,7 @@
 		{
 			"id": 6,
 			"title": "Mizuno Volleyball Shoes",
+			"description": "Just a volleyball shoes",
 			"price": 90.00,
 			"currency": "USD",
 			"image": "https://www.mizunousa.com/dw/image/v2/AAAV_PRD/on/demandware.static/-/Sites-mizuno-master-catalog/default/dw7f4ef4a4/images/ProductImages/Shoes/430269.9123.jpg?sw=700&sh=700&sm=fit&sfrm=png",
