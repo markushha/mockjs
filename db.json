@@ -118,12 +118,12 @@
 		},
 		{
 			"id": 14,
-			"title": "Smartwatch",
-			"description": "A fitness-focused smartwatch from Garmin",
-			"image": "",
-			"price": 250.00,
+			"title": "AKKO Keyboard",
+			"description": "The most amazing keyboard. I have one :)",
+			"price": 110.00,
 			"currency": "USD",
-			"rating": 4.5
+			"image": "https://img.pccasegear.com/tr:n-gallery/images/6925758619295-thumb.jpg",
+			"rating": 5.0
 		},
 		{
 			"id": 15,
@@ -159,24 +159,6 @@
 			"price": 25.00,
 			"currency": "USD",
 			"image": "https://cdn.shopify.com/s/files/1/0109/5012/products/R1_Cobalt_500x.jpg?v=1668102962",
-			"rating": 5.0
-		},
-		{
-			"id": 19,
-			"title": "AKKO Keyboard",
-			"description": "The most amazing keyboard. I have one :)",
-			"price": 110.00,
-			"currency": "USD",
-			"image": "https://img.pccasegear.com/tr:n-gallery/images/6925758619295-thumb.jpg",
-			"rating": 5.0
-		},
-		{
-			"id": 20,
-			"title": "Microphone",
-			"description": "Just a mic",
-			"price": 45.00,
-			"currency": "USD",
-			"image": "https://pspdf.kz/image/catalog/products/zvuk/rode-nt1-kit/1.jpg",
 			"rating": 5.0
 		}
 	]
