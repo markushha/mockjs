@@ -10,7 +10,7 @@
 		},
 		{
 			"id": 2,
-			"title": "Adidas Running Shoes",
+			"title": "Running Shoes",
 			"description": "Just a running shoes, but adidas",
 			"price": 80.00,
 			"currency": "USD",
@@ -19,8 +19,8 @@
 		},
 		{
 			"id": 3,
-			"title": "Under Armour Basketball",
-			"description": "Just a basket ball",
+			"title": "Basketball",
+			"description": "Just an Under Armour basket ball",
 			"price": 35.00,
 			"currency": "USD",
 			"image": "https://i5.walmartimages.com/asr/fe14d909-5392-4137-bbf6-94f180861f09_1.751f25270fd81d54d03630ee8c467b2f.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
@@ -28,7 +28,7 @@
 		},
 		{
 			"id": 4,
-			"title": "Wilson Tennis Racket",
+			"title": "Tennis Racket",
 			"description": "Just a WILSON tennis racket",
 			"price": 100.00,
 			"currency": "USD",
@@ -37,8 +37,8 @@
 		},
 		{
 			"id ": 5,
-			"title": "New Balance Running Shorts",
-			"description": "Just a running shorts",
+			"title": "Running Shorts",
+			"description": "New Balance Running Shorts. Should you buy it? You probably should",
 			"price": 30.00,
 			"currency": "USD",
 			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzojfCLrprqTdxvJFuLnLe4mqM4uP-aNwlLg&usqp=CAU",
@@ -46,8 +46,8 @@
 		},
 		{
 			"id": 6,
-			"title": "Mizuno Volleyball Shoes",
-			"description": "Just a volleyball shoes",
+			"title": "Volleyball Shoes",
+			"description": "Just a volleyball shoes, frome some brand",
 			"price": 90.00,
 			"currency": "USD",
 			"image": "https://i1.adis.ws/i/mizunousa/430300_0090?w=500&h=500&fmt=jpg&bg=rgb(255,255,255)&img404=404&v=1",
