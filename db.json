@@ -145,21 +145,21 @@
 		},
 		{
 			"id": 17,
-			"title": "Mountain Bike",
-			"image": "https://cdn.shopify.com/s/files/1/0255/9528/1483/files/20220716-154834_1000x1000.png?v=11929871417226053160",
-			"description": "A full suspension mountain bike from Santa Cruz",
-			"price": 4000.00,
+			"title": "Cycling Helmet",
+			"description": "Lightweight Bike Helmet with Adjustable Fit",
+			"price": 65.00,
 			"currency": "USD",
-			"rating": 4.9
+			"image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Bicycle_Helmet_0085.jpg",
+			"rating": 3.8
 		},
 		{
 			"id": 18,
-			"title": "Snowboard",
-			"image": "https://www.lib-tech.com/media/catalog/product/cache/94ceb2dd2867269381b5b9da0712e7a4/2/0/2022-2023-Lib-Tech-Dynamiss-Womens-Snowboard.jpg",
-			"description": "A snowboard from Burton, designed for freestyle riding",
-			"price": 500.00,
+			"title": "Swimming Goggles",
+			"description": "Anti-Fog UV Protection Swim Goggles",
+			"price": 25.00,
 			"currency": "USD",
-			"rating": 4.3
+			"image": "https://cdn.shopify.com/s/files/1/0109/5012/products/R1_Cobalt_500x.jpg?v=1668102962",
+			"rating": 5.0
 		},
 		{
 			"id": 19,
@@ -177,24 +177,6 @@
 			"price": 45.00,
 			"currency": "USD",
 			"image": "https://pspdf.kz/image/catalog/products/zvuk/rode-nt1-kit/1.jpg",
-			"rating": 5.0
-		},
-		{
-			"id": 21,
-			"title": "Cycling Helmet",
-			"description": "Lightweight Bike Helmet with Adjustable Fit",
-			"price": 65.00,
-			"currency": "USD",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Bicycle_Helmet_0085.jpg",
-			"rating": 3.8
-		},
-		{
-			"id": 22,
-			"title": "Swimming Goggles",
-			"description": "Anti-Fog UV Protection Swim Goggles",
-			"price": 25.00,
-			"currency": "USD",
-			"image": "https://cdn.shopify.com/s/files/1/0109/5012/products/R1_Cobalt_500x.jpg?v=1668102962",
 			"rating": 5.0
 		}
 	]
