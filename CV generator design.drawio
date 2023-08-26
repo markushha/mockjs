@@ -1,0 +1,67 @@
+<mxfile host="app.diagrams.net" modified="2023-08-26T07:52:05.139Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="ZewjSY43c2_9IU6vIZ55" version="21.6.8" type="github">
+  <diagram name="Страница — 1" id="Ig8h5aQ0VJKZOoLTc56u">
+    <mxGraphModel dx="1406" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jul7FuOtefKKT4WwzsIH-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="jul7FuOtefKKT4WwzsIH-1" target="jul7FuOtefKKT4WwzsIH-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jul7FuOtefKKT4WwzsIH-1" value="ChatGPT 3.5" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="333" y="360" width="162" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jul7FuOtefKKT4WwzsIH-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="jul7FuOtefKKT4WwzsIH-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jul7FuOtefKKT4WwzsIH-2" value="CV Generator" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jul7FuOtefKKT4WwzsIH-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="jul7FuOtefKKT4WwzsIH-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414.42857142857133" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jul7FuOtefKKT4WwzsIH-3" value="formatted prompt" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jul7FuOtefKKT4WwzsIH-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jul7FuOtefKKT4WwzsIH-6" target="jul7FuOtefKKT4WwzsIH-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jul7FuOtefKKT4WwzsIH-6" value="Some instructions..." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="369" y="310" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jul7FuOtefKKT4WwzsIH-8" value="1) create a structurised propmpt" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="495" y="110" width="202" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jul7FuOtefKKT4WwzsIH-9" value="My name is Mark, and I&#39;m front end engineer with experience for 2 years." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="495" y="150" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jul7FuOtefKKT4WwzsIH-10" value="... prompt" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="495" y="235" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jul7FuOtefKKT4WwzsIH-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jul7FuOtefKKT4WwzsIH-11" target="jul7FuOtefKKT4WwzsIH-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jul7FuOtefKKT4WwzsIH-11" value="prompt merging logic" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="350.5" y="180" width="127" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="jul7FuOtefKKT4WwzsIH-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="jul7FuOtefKKT4WwzsIH-14" target="jul7FuOtefKKT4WwzsIH-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jul7FuOtefKKT4WwzsIH-14" value="external PDF libs" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jul7FuOtefKKT4WwzsIH-15" value="response.json" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jul7FuOtefKKT4WwzsIH-16" value="CV" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
